@@ -1,0 +1,16 @@
+## Build and output folders
+bin/
+obj/
+out/
+
+## Visual Studio & Rider cache files
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## OS generated files
+.DS_Store
+Thumbs.db
